@@ -12,8 +12,6 @@ Installation:
 Clone this repository to your local machine.
 Open the project in Android Studio.
 Build and run the app on an emulator or connected device.
-Screenshots:
-(You can add any screenshots of the app here.)
 
 Technologies Used:
 Android Studio
